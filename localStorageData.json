@@ -1,0 +1,32 @@
+[
+  {
+    "image": "",
+    "name": "Dates (Kharik)",
+    "price": 380,
+    "quantity": 1
+  },
+  {
+    "image": "",
+    "name": "Ajowan Caraway (Ajwain)",
+    "price": 138,
+    "quantity": 1
+  },
+  {
+    "image": "",
+    "name": "Orange",
+    "price": 100,
+    "quantity": 1
+  },
+  {
+    "image": "",
+    "name": "Kiwi",
+    "price": 120,
+    "quantity": 1
+  },
+  {
+    "image": "",
+    "name": "Grapes",
+    "price": 80,
+    "quantity": 1
+  }
+]
